@@ -1,0 +1,19 @@
+.tabs-list-cont {
+  list-style-type: none;
+  margin-right: 50px;
+}
+.tab {
+  background-color: transparent;
+  font-family: Roboto;
+  font-size: 22px;
+  font-weight: bold;
+  border: 0px solid;
+  color: #ffffff;
+  cursor: pointer;
+  outline: none;
+}
+.highlight {
+  font-size: 28px;
+  border-bottom: 4px solid #fec653;
+  color: #fec653;
+}
